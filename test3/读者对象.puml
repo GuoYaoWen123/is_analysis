@@ -1,0 +1,6 @@
+@startuml
+	object reader {
+	 	username = "郭先生"
+		password = "郭耀文"
+	}
+@enduml
