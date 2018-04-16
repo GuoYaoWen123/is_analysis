@@ -18,7 +18,7 @@ object order {
 @endumlml
 
 ````
-![借书记录](https://github.com/748580573/is_analysis/blob/master/test3/%E5%80%9F%E4%B9%A6%E8%AE%B0%E5%BD%95.png)
+![借书记录](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/借书记录.png）
 
 
 流程三
