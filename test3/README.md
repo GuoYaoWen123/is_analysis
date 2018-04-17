@@ -81,16 +81,16 @@ object libraryManager {
 package "library" #DDDDDD {
 
 object reader {
-	 	username = "mrwuqwe"
-		password = "qweqw"
+	 	username = "郭先生"
+		password = "郭耀文"
 	}
 	object visitor {
 		注册账号
 	}
 
 	object 图书管理员 {
-		 username = "mrqwq"
-		 password = "wuqweqwe"
+		 username = "mrguo"
+		 password = "郭文"
 	}
 
 
