@@ -67,7 +67,7 @@ object libraryManager {
 
 @enduml
 ````
-![管理员对象]()
+![管理员对象](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/游客对象.png)
 
 
 
