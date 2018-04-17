@@ -68,7 +68,9 @@ object libraryManager {
 @enduml
 ````
 ![管理员对象](https://github.com/GuoYaoWen123/is_analysis/blob/master/test3/读者对象.png)
-
+ 
+ 
+ 说明：与读者对象代码大同小异，故此处引用读者对象截图
 
 
 ##### 流程五：系统对象
