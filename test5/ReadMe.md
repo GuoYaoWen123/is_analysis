@@ -202,7 +202,7 @@ tb_user表的外键</td>
 
 
 3.1 获取用户借阅信息(从数据库获取)
-请求地址：http://hailong.com/bookmanage/user_name  
+请求地址：http://localhost:8080/Library_Log.jsp
 请求方法：GET  
 请求参数:  
 <table>
