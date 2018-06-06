@@ -29,10 +29,10 @@
             "data": [
                 {"WEB_SUM": "Y,Y,Y,Y,Y,N",
                 "RESULT_SUM": "83.75,90,80,80,85,N",
-                "GITHUB_USERNAME": "Chinajuedui",
-                "STUDENT_ID": "201510315203",
-                "CLASS": "软件(本)15-1",
-                "NAME": "陈松华",
+                "GITHUB_USERNAME": "GuoYaoWen123",
+                "STUDENT_ID": "201510414404",
+                "CLASS": "软件(本)15-4",
+                "NAME": "郭耀文",
                 "UPDATE_DATE": "2018-04-02 13:48:01"},
                 {
                 ...其他学生

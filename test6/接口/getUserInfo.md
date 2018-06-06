@@ -29,7 +29,7 @@
             "info": null,
             "ID":"2101201281",    
             "name":"张三",
-            "class_dept":"软件工程1班"
+            "class_dept":"软件工程4班"
             "github_username":"ABCD",
             "type":"学生"            
         }

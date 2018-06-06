@@ -7,7 +7,7 @@
 
 |学号|班级|姓名|照片|
 |:-------:|:-------------: | :----------:|:---:|
-|201510414404|软件(本)15-4|郭耀文|![flow1](lijunfeng.png)|
+|201510414404|软件(本)15-4|郭耀文|暂无|
 
 ## 1. 概述
 - 基于GitHub的实验管理平台的作用是在线管理实验成绩的Web应用系统。学生和老师的实验内容均存放在GitHUB
@@ -37,12 +37,12 @@
 
 ## 6. 用例及界面详细设计
 - ### [“学生列表”用例](用例/学生列表.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/Student_List.png)
-- ### [“评定成绩”用例](用例/评定成绩.md),[界面](https://github.com/l201510414306/is_analysis/blob/master/test6/评定成绩界面设计.png)
-- ### [“查看成绩”用例](用例/查看成绩.md),[界面](https://github.com/l201510414306/is_analysis/blob/master/test6/查看成绩界面设计.png)
-- ### [“修改密码”用例](用例/修改密码.md),[界面](https://github.com/GuoYaoWen123/is_analysis/blob/master/test6/接口/修改密码.html)
-- ### [“修改用户信息”用例](用例/修改用户信息.md),[界面](https://github.com/GuoYaoWen123/is_analysis/blob/master/test6/接口/修改密码.html）
-- ### [“查看用户信息”用例](用例/查看用户信息.md),[界面](https://github.com/l201510414306/is_analysis/blob/master/test6/查看用户信息界面设计.png)
-- ### [“登出”用例](用例/登出.md),[界面](https://github.com/l201510414306/is_analysis/blob/master/test6/登出界面设计.png)
+- ### [“评定成绩”用例](用例/评定成绩.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/评定成绩界面设计.png)
+- ### [“查看成绩”用例](用例/查看成绩.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/查看成绩界面设计.png)
+- ### [“修改密码”用例](用例/修改密码.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/修改密码界面设计.png)
+- ### [“修改用户信息”用例](用例/修改用户信息.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/查看用户信息界面设计.png)
+- ### [“查看用户信息”用例](用例/查看用户信息.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/查看用户信息界面设计.png)
+- ### [“登出”用例](用例/登出.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/登出界面设计.png)
 - ### [“登录”用例](用例/登录.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/登录界面设计.png)
 - ### [“学生选课”用例](用例/学生选课.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/学生选课界面设计.png)
 - ### [“教师选课”用例](用例/教师选课.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/教师选课界面设计.png)    
