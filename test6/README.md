@@ -38,7 +38,7 @@
 ## 6. 用例及界面详细设计
 - ### [“学生列表”用例](用例/学生列表.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/Student_List.png)
 - ### [“评定成绩”用例](用例/评定成绩.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/评定成绩界面设计.png)
-- ### [“查看成绩”用例](用例/查看成绩.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/查看成绩界面设计.png)
+- ### [“查看成绩”用例](用例/查看成绩.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/评定成绩界面设计.png)
 - ### [“修改密码”用例](用例/修改密码.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/修改密码界面设计.png)
 - ### [“修改用户信息”用例](用例/修改用户信息.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/查看用户信息界面设计.png)
 - ### [“查看用户信息”用例](用例/查看用户信息.md),[界面](https://github.com/GuoYaoWen123/is_analysis/tree/master/test6/查看用户信息界面设计.png)
