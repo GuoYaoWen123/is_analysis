@@ -24,7 +24,7 @@
 ## 2. 系统总体结构
 ![](系统结构图.png)
 
-界面设计参见：https://zwdbox.github.io/is_analysis/test6/ui/index.html
+界面设计参见：https://github.com/GuoYaoWen123/is_analysis/blob/master/test6/系统结构.html
     
 ## 3. 用例图设计 [源码](src/UseCase.puml)
 ![](UseCase.png)
